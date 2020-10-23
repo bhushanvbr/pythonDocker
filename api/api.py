@@ -7,7 +7,7 @@ app.config["DEBUG"] = True
 # Create some test data for our catalog in the form of a list of dictionaries.
 books = [
     {'id': 0,
-     'title': 'A Water and Fire Upon the Deep',
+     'title': 'A Water and Fire Upon the Deep and height',
      'author': 'Vernor Vinge',
      'first_sentence': 'The coldsleep itself was dreamless.',
      'year_published': '1992'},
