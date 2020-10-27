@@ -9,7 +9,7 @@ books = [
     {'id': 0,
      'title': 'A Water and Fire Upon the Deep and height',
      'author': 'Vernor Vinge',
-     'first_sentence': 'The coldsleep itself was dreamless.',
+     'first_sentence': 'The cold sleep itself was dreamless.',
      'year_published': '1992'},
     {'id': 1,
      'title': 'The Ones Who Walk Away From Omelas',
